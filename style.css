@@ -10,6 +10,8 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 62.5%;
   box-sizing: border-box;
+  background-color: silver;
+  padding: 50px;
 }
 
 .calc-btn {
